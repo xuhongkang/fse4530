@@ -1,4 +1,4 @@
-Welcome to IP1
+IP1 Handout Setup and Testing
 
 To download the dependencies, run:
 
@@ -9,7 +9,7 @@ You shold have node v18 instqalled.
 
 To compile the typescript code:
 ```
-npm run buil
+npm run build
 ```
 
 To lint your code:
